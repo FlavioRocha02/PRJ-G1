@@ -1,0 +1,29 @@
+/*body,
+html {
+  height: 100%;
+}
+
+img {
+  height: 80px;
+  width: 70px;
+}
+
+.form-control {
+  margin-bottom: 15px;
+}
+
+.banner{
+  background-color: lightgray;
+}*/
+
+.container{
+  border: 1px solid gray;
+}
+
+.alerta{
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 240px;
+  color:darkred;
+  background-color: rgb(218, 218, 218);
+}
